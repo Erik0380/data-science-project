@@ -1,0 +1,6 @@
+# Dependencies for the solar PV analysis (solar_analysis.ipynb / solar_analysis.py)
+# Install with:  pip install -r requirements.txt
+
+pandas>=2.0
+matplotlib>=3.7
+jupyter>=1.0
